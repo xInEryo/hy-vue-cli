@@ -1,7 +1,7 @@
 # 说明文档
 
 ## `hy-vue-cli`: 一个帮助你快速搭建和开发前端项目的 CLI
-> 本文档是源于coderwhy老师
+> 本文档源于coderwhy老师
 
 目前只支持 Vue
 
