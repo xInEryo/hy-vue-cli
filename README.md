@@ -16,7 +16,7 @@ vue 项目模块已经帮你配置：
 创建项目
 
 ```shell
-coderwhy create your_project_name
+why  create your_project_name
 ```
 
 自动拉取项目模板、安装项目依赖、打开浏览器 `http://localhost:8080/`、自动启动项目
